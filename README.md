@@ -1,6 +1,10 @@
 # Corporate Finance (AI Plus One)
 
-**Expanded public draft 0.3.** Twenty chapters across the decision sequence and advanced laboratories. This is not an expert-edited textbook or a replacement for an existing edition.
+**Status:** Expanded public draft 0.3
+
+## About the book
+
+Twenty chapters across the decision sequence and advanced laboratories. This is not an expert-edited textbook or a replacement for an existing edition.
 
 An MBA-level book about making and defending choices with a firm's money. Readers are assumed to know basic financial statements and present value. Throughout the book you sit on the decision side of the table. You have to recommend an action, reconcile it with the cash the firm can use, and say what would cause you to reopen it.
 
@@ -8,13 +12,13 @@ Each chapter begins with a plausible decision and takes its logic apart. Record 
 
 ## Learning outcomes
 
-After working through this draft, readers should be able to:
-
 - Value dated cash flows and distinguish an attractive investment from one the firm can afford to fund.
 - Compare project risk, financing, payouts, acquisition choices, and hedges under explicit assumptions.
 - Defend a board recommendation with checked calculations, alternatives, and triggers for reconsideration.
 
-## Chapters
+## Read the book
+
+Start with [A Good Investment the Firm Cannot Yet Make](chapters/01-price-the-decision.md) or browse the [chapters folder](chapters/).
 
 ### Part 1 · Find the decision
 
@@ -47,6 +51,8 @@ After working through this draft, readers should be able to:
 18. [Read the covenant as a cash claim](chapters/18-read-the-covenant-as-a-cash-claim.md)
 19. [Count the shares and the money](chapters/19-count-the-shares-and-the-money.md)
 20. [Solve the adversarial board packet](chapters/20-solve-the-adversarial-board-packet.md)
+
+## Resources
 
 Use [the independent review problems](problems/independent-review.md) after your first complete pass. Every lab explicitly distinguishes its fictional assumptions from evidence needed for a real decision. Professional finance, legal, tax or accounting work requires its own facts and advice.
 
