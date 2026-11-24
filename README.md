@@ -6,26 +6,36 @@ An MBA-level book about making and defending choices with a firm's money. Reader
 
 Each chapter begins with a plausible decision and takes its logic apart. Record your first answer before reading the worked argument. The supplied wrong answers are deliberate teaching examples, not live tool outputs. All data are fictional. One optional use of AI is to ask it to challenge the reasoning after a first attempt; the independent calculation and the decision belong to the learner.
 
-## Part 1 · Find the decision
+## Learning outcomes
+
+After working through this draft, readers should be able to:
+
+- Value dated cash flows and distinguish an attractive investment from one the firm can afford to fund.
+- Compare project risk, financing, payouts, acquisition choices, and hedges under explicit assumptions.
+- Defend a board recommendation with checked calculations, alternatives, and triggers for reconsideration.
+
+## Chapters
+
+### Part 1 · Find the decision
 
 1. [A Good Investment the Firm Cannot Yet Make](chapters/01-price-the-decision.md)
 2. [Forecast the Bank Balance, Not the Month](chapters/02-dated-liquidity.md)
 3. [The Rate Is a Claim About Risk](chapters/03-price-project-risk.md)
 4. [Buy Information Before Buying Equipment](chapters/04-price-flexibility.md)
 
-## Part 2 · Decide who pays, who gets paid, and when
+### Part 2 · Decide who pays, who gets paid, and when
 
 5. [Finance an investment without disguising the cost](chapters/05-finance-the-investment.md)
 6. [Return money without returning the safety margin](chapters/06-preserve-the-reserve.md)
 7. [Buy a business without paying for your own work](chapters/07-price-the-acquisition.md)
 
-## Part 3 · Keep a decision defensible after the vote
+### Part 3 · Keep a decision defensible after the vote
 
 8. [Hedge the cash exposure you can name](chapters/08-hedge-a-named-exposure.md)
 9. [Write the rule before seeing the answer](chapters/09-precommit-the-rule.md)
 10. [Resolve the board's choices together](chapters/10-resolve-the-board-choices.md)
 
-## Part 4 · Advanced finance laboratories
+### Part 4 · Advanced finance laboratories
 
 11. [Close the model before forecasting it](chapters/11-close-the-model.md)
 12. [Replace the machine, not the budget line](chapters/12-replace-or-retain.md)
