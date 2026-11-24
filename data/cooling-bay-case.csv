@@ -1,0 +1,11 @@
+option,year,component,cash_dollars
+compact,0,purchase,-160000
+compact,1,operations,65000
+compact,2,operations,65000
+compact,3,operations,65000
+compact,3,sale,10000
+whole_bay,0,purchase,-240000
+whole_bay,1,operations,100000
+whole_bay,2,operations,100000
+whole_bay,3,operations,100000
+whole_bay,3,sale,30000
