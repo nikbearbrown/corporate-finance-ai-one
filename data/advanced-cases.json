@@ -1,0 +1,17 @@
+{
+  "units": "Thousands of stated currency unless shares or rates; wholly fictional.",
+  "accounting": {
+    "opening": {"cash": 170, "ar": 80, "inventory": 100, "ppe": 300, "ap": 60, "debt": 120, "equity": 470},
+    "period": {"sales": 360, "cogs": 204, "salaries": 60, "depreciation": 22, "interest": 8, "tax": 16, "capex": 35, "borrowing": 20, "distribution": 15},
+    "closing_non_cash": {"ar": 112, "inventory": 121, "ap": 65}
+  },
+  "replacement": {"rate": "0.09", "unit_cost": 480, "old_sale": 60, "working_capital": 36, "savings": 180, "depreciation": 72, "tax": "0.25", "foregone_rent": 15, "new_sale": 70, "closure": 16},
+  "apv": {"operating_rate": "0.11", "debt_yield": "0.07", "amount": 300, "annual_operating_cash": 100, "borrowed": 120, "tax": "0.25", "distress_weight": "0.20", "distress_cost": 55, "fee": 3},
+  "portfolio": {"cash": 150, "days": 11, "options_cost_days_npv": {"A": [90, 6, 42], "B": [60, 6, 27], "C": [70, 4, 34], "D": [45, 3, 22]}},
+  "enterprise": {"cash_forecast": [40, 47, 55, 62], "rate": "0.10", "growth": "0.025", "debt_claim": 160, "excess_cash": 28, "shares": 40000},
+  "contingent_bid": {"operating_value": 446, "single": 430, "down_payment": 400, "trigger_pay": 90, "trigger_weight": "0.50", "payment_rate": "0.12", "years": 2, "cash_today": 520, "floor": 110, "cash_in_trigger": 155},
+  "currency": {"spot_usd_per_eur": "1.10", "dollar_rate": "0.09", "euro_rate": "0.06", "cost_eur": 160, "annual_receipt_eur": 90},
+  "covenant": {"gross_debt": 260, "eligible_cash": 30, "restricted_cash": 55, "baseline_earnings": 78, "downside_earnings": 60, "maximum_multiple": "3.5"},
+  "shares": {"old_shares": 400000, "old_equity_dollars": 2000000, "new_shares": 100000, "secondary_shares": 40000, "offer_price": "4.50", "fees_dollars": 30000},
+  "board": {"initial_cash": 500, "floor": 130, "base_week_movements": [-50, 35], "acceleration": 20, "internal_rate": "0.10", "internal_order": 320, "internal_annual_cash": 130, "internal_sale": 25, "route_rate": "0.13", "route_order": 385, "route_annual_cash": 165, "route_sale": 30, "loan": 55, "loan_rate": "0.08", "loan_fee": 4}
+}

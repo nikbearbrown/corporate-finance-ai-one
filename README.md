@@ -1,6 +1,6 @@
 # Corporate Finance (AI Plus One)
 
-**Public draft 0.2.** A compact first pass across ten chapters, not a finished textbook or a replacement for an existing edition.
+**Expanded public draft 0.3.** Twenty chapters across the decision sequence and advanced laboratories. This is not an expert-edited textbook or a replacement for an existing edition.
 
 An MBA-level book about making and defending choices with a firm's money. Readers are assumed to know basic financial statements and present value. Throughout the book you sit on the decision side of the table. You have to recommend an action, reconcile it with the cash the firm can use, and say what would cause you to reopen it.
 
@@ -25,4 +25,21 @@ Each chapter begins with a plausible decision and takes its logic apart. Record 
 9. [Write the rule before seeing the answer](chapters/09-precommit-the-rule.md)
 10. [Resolve the board's choices together](chapters/10-resolve-the-board-choices.md)
 
-All ten draft chapters are represented; expert review, a second content pass and broader exercises remain pending. The original synthetic arithmetic can be independently rerun with [the Chapter 1 calculator](scripts/verify_case.py) and [the all-chapter calculation checks](scripts/verify_examples.py), both using Python 3’s standard library. This is instructional material, not individualized financial advice.
+## Part 4 · Advanced finance laboratories
+
+11. [Close the model before forecasting it](chapters/11-close-the-model.md)
+12. [Replace the machine, not the budget line](chapters/12-replace-or-retain.md)
+13. [Value the financing separately](chapters/13-value-the-financing-separately.md)
+14. [Budget the portfolio, not the queue](chapters/14-budget-the-portfolio.md)
+15. [Value the claim you can buy](chapters/15-value-the-claim-you-can-buy.md)
+16. [Make the bid fit the calendar](chapters/16-make-the-bid-fit-the-calendar.md)
+17. [Keep cash and rates in one currency](chapters/17-keep-cash-and-rates-in-one-currency.md)
+18. [Read the covenant as a cash claim](chapters/18-read-the-covenant-as-a-cash-claim.md)
+19. [Count the shares and the money](chapters/19-count-the-shares-and-the-money.md)
+20. [Solve the adversarial board packet](chapters/20-solve-the-adversarial-board-packet.md)
+
+Use [the independent review problems](problems/independent-review.md) after your first complete pass. Every lab explicitly distinguishes its fictional assumptions from evidence needed for a real decision. Professional finance, legal, tax or accounting work requires its own facts and advice.
+
+You can verify the examples offline using the [first case calculator](scripts/verify_case.py), [core example checks](scripts/verify_examples.py) and [advanced model checks](scripts/verify_advanced.py), all with Python 3’s standard library. The latter reads the [advanced synthetic inputs](data/advanced-cases.json). The checks test the modeled arithmetic, not the reasonableness of the assumptions or an expert's review.
+
+Still pending in this draft: expert edit, bibliographic fact-check and a distinct course-ready teaching/assessment pass. The build depth varies by chapter.
